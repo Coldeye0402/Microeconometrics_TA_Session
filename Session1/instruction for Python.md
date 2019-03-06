@@ -13,7 +13,7 @@
 4. change your install directory
  ![Py_advance](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/Py_advance.png)
 5. before using Python, we' better verify that Python is indeed successfully installed. One way to verify this is to open the DOS command line, type in "python",if it lists the following information, Python is successfully installed.
- ![Py_startmenu](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/Py_startmenu.png)
+ ![Py_startmenu](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/Py_startmenu.PNG)
  ![Py_verify](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/Py_verify.png)
 6. if it fails, make sure  you tick "Add Python 3.7 to PATH" in the second step. if that step is correct,but Python is still failed, restart your computer.
 
@@ -27,7 +27,7 @@ but still you can choose other text-editors or IDE like [Atom](https://atom.io/)
 1. write script on sublime
  ![Py_script](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/Py_script.png)
 2. compile the script
- ![Py_build](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/Py_build.png) or Ctrl+B
+ ![Py_build](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/Py_build.PNG) or Ctrl+B
 3. check the result
- ![Py_result](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/Py_result.png) or Ctrl+B
+ ![Py_result](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/Py_result.PNG) 
 
