@@ -1,7 +1,7 @@
 
 # Installing Python 
 
-## go to Python's official website (https://www.python.org/). Since the internet is very slow during  the NPC and CPPCC period,you can download Python from domestic mirror (https://pan.baidu.com/s/1kU5OCOB#list/path=%2Fpub%2Fpython) .Try to download the more recent version of Python （the latest version is 3.7.2 ) accourding to your computer configuration(64 bit or 32 bit, Windows or Mac)
+ go to Python's official website (https://www.python.org/). Since the internet is very slow during  the NPC and CPPCC period,you can download Python from domestic mirror (https://pan.baidu.com/s/1kU5OCOB#list/path=%2Fpub%2Fpython) .Try to download the more recent version of Python （the latest version is 3.7.2 ) accourding to your computer configuration(64 bit or 32 bit, Windows or Mac)
 
 ## the installation 
 1. double the ".exe" file
