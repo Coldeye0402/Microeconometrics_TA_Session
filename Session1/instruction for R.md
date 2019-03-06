@@ -1,11 +1,7 @@
 
 # Installing R and RStudio
 R is a free software environment for statistical computing and graphics.
-&nbsp;
-&nbsp;
-RStudio is a set of integrated tools designed to help you be more productive with R
-&nbsp;
-&nbsp;
+RStudio is a set of integrated tools designed to help you be more productive with R.
 before use RStudio , make sure you install R first.
 &nbsp;
 &nbsp;
