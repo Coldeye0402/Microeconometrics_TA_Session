@@ -61,3 +61,5 @@ Before Installation, you should check if Microsoft .NET Framework 4.5 (or higher
 &nbsp;
 
 4. Go to the directory and enjoy it.
+
+## if you want to publish your writings on their github pages,please refer to this [note](https://github.com/jiamingmao/data-analysis/blob/master/Materials/Software/Git%20and%20Github/Git%20and%20Github.md)
