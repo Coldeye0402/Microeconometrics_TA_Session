@@ -1,5 +1,5 @@
 
-#  Installing R and RStudio
+# Installing R and RStudio
 R is a free software environment for statistical computing and graphics.
 &nbsp;
 &nbsp;
@@ -41,7 +41,6 @@ before use RStudio , make sure you install R first.
 6. double click the ".exe" file, and follow the default instructions
 &nbsp;
 &nbsp;
-
 ![R_downloaded](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/R_downloaded.png)
 &nbsp;
 &nbsp;
@@ -60,7 +59,10 @@ before use RStudio , make sure you install R first.
 ![R_install5](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/R_install5.png)
 &nbsp;
 &nbsp;
+
 7. press the button "next" and wait for a while, R will be installed on your computer
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 here is the built-in R-GUI in R, but now RStudio is more user-friendly and popular.
