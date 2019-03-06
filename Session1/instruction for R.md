@@ -29,11 +29,13 @@ before use RStudio , make sure you install R first.
 &nbsp;
 
 ![R_beginner](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/R_beginner.png)
+
 5. now the latest version is 3.5.2
 &nbsp;
 &nbsp;
 ![R_latestversion](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/R_latestversion.png)
 &nbsp;
+
 6. double click the ".exe" file, and follow the default instructions
 &nbsp;
 &nbsp;
@@ -67,20 +69,20 @@ here is the built-in R-GUI in R, but now RStudio is more user-friendly and popul
 ## install RStudio
 &nbsp;
 &nbsp;
-1.log on to RStudio's homepage (https://www.rstudio.com/products/rstudio/download/) and download RStudio 
+1. log on to RStudio's homepage (https://www.rstudio.com/products/rstudio/download/) and download RStudio 
  choose the free version
 &nbsp;
 &nbsp;
 ![RS_download](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/RS_download.png)
 &nbsp;
 &nbsp;
-2.select the specific version tailoring to your laptop configuration,here we take Windows for example
+2. select the specific version tailoring to your laptop configuration,here we take Windows for example
 &nbsp;
 &nbsp;
  ![RS_platform](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/RS_platform.png)
 &nbsp;
 &nbsp;
-3.In your computer's **Downloads** folder, double-click "RStudio-1.1.463.exe" and follow the default intruction
+3. In your computer's **Downloads** folder, double-click "RStudio-1.1.463.exe" file and follow the default instruction
 &nbsp;
 &nbsp;
 ![RS_install1](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/RS_install1.png)
