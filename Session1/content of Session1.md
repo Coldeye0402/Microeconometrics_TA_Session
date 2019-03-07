@@ -6,7 +6,7 @@
 ## Installing R and RStudio
 ## Installing Python
 ## Introducing LaTeX and Lyx
-## Other Materials
+## Other Materials related to this course
 
 
 # the course materials and its organization
