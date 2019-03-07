@@ -9,7 +9,7 @@
 
 
 
-![Py_exe](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/Py_exe.png)
+![Py_exe](Figures/Py_exe.png)
 &nbsp;
 
 2. tailor to your need
