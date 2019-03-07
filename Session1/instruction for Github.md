@@ -7,21 +7,21 @@
 
 1. Go to GitHub's homepage (https://github.com/).
    Setting your Usernames, Email and password, then click "Sign up for GitHub"
-![1signup](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/1signup.png)
+![1signup](Figures/1signup.png)
 &nbsp;
 2. Set up your account
-![2setup1](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/2setup1.png)
-![3setup2](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/3setup2.png)
+![2setup1](Figures/2setup1.png)
+![3setup2](Figures/3setup2.png)
 &nbsp;
 &nbsp;
 3. Choose your personal plan with Unlimited public repositories for free.
-![4choose_plan](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/4choose_plan.png)
+![4choose_plan](Figures/4choose_plan.png)
 &nbsp;
 4. Tailor your experience
-![5tailor](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/5tailor.png)
+![5tailor](Figures/5tailor.png)
 &nbsp;
 5. Verify your email address
-![6verify_email](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/6verify_email.png)
+![6verify_email](Figures/6verify_email.png)
 &nbsp;
 
 
@@ -49,15 +49,15 @@ Before Installation, you should check if Microsoft .NET Framework 4.5 (or higher
 
 
 1. Copy the URL of the repository e.g.(https://github.com/jiamingmao/data-analysis)
-![8URL](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/8URL.png)
+![8URL](Figures/8URL.png)
 &nbsp;
 
 2. Run your GitHub Desktop and clone the repository, click the button "Add" ,than "clone repository"
-![9desktop_add](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/9desktop_add.png)
+![9desktop_add](Figures/9desktop_add.png)
 &nbsp;
 
 3. Choose the directory you wish to clone the repository into, click **clone**, and wait for a while
-![10clone](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/Figures/10clone.png)
+![10clone](Figures/10clone.png)
 &nbsp;
 
 4. Go to the directory and enjoy it.
