@@ -8,10 +8,6 @@
 ## Introducing LaTeX and Lyx
 ## Other Materials
 
-&nbsp;
-&nbsp;
-&nbsp;
-
 
 # the course materials and its organization
 
@@ -22,27 +18,21 @@
 2. course lectures : all of the siles on class
 3. resources : links to the online resources mainly about data-analysis tools, eg R, Stata, Python et al,.
 4. link Github Repository (https://github.com/jiamingmao/data-analysis)
-&nbsp;
-&nbsp;
-&nbsp;
+
 
 ## all of the materials synchronization  (https://github.com/jiamingmao/data-analysis)
-&nbsp;
-&nbsp;
-&nbsp;
+
 
 ## moodle (https://l.xmu.edu.cn/)
 ![moodle_home](Figures/moodle_home.png)
-&nbsp;
+
 ![moodle_our](Figures/moodle_our.png)
-&nbsp;
+
 1. upload your homework
 ![homework](Figures/homework.png)
 
 2. download data and related books in electronical version
-&nbsp;
-&nbsp;
-&nbsp;
+
 
 ## piazza for class related discussion (https://piazza.com/class/jrutcu09qew35q?cid=5)
 
