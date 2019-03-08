@@ -22,7 +22,7 @@
 ## all of the materials synchronization  (https://github.com/jiamingmao/data-analysis)
 
 
-##  moodle (https://l.xmu.edu.cn/)
+## moodle (https://l.xmu.edu.cn/)
 ![moodle_home](Figures/moodle_home.png)
 
 ![moodle_our](Figures/moodle_our.png)
