@@ -1,12 +1,11 @@
 
 # Outlines of the first TA Session
 
-## The course materials and its organization
-## Using git and/or Github desktop to sync course materials
-## Installing R and RStudio
-## Installing Python
-## Introducing LaTeX and Lyx
-## Other Materials related to this course(Professor Mao recommend)
+## * The course materials and its organization
+## * Using git and/or Github desktop to sync course materials
+## * Installing R and RStudio
+## * Installing Python
+## * Introducing  Lyx
 
 
 # the course materials and its organization
