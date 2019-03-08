@@ -12,13 +12,13 @@ here we take Windows systen and TexLive for example.
 1. go to the following page to download Texlive2018 (https://www.tug.org/texlive/acquire-netinstall.html)  
 ![Texlive_download](Figures/Texlive_download.png)  
 
-2. double click the [.exe] file and start installing.  
+2. double click the **.exe**file and start installing.  
 ![Textlive_install1](Figures/Textlive_install1.png)  
 
-3. click [next]  
+3. click **next**  
 ![Textlive_install2](Figures/Textlive_install2.png)  
 
-4. click [install] to continue  
+4. click **install** to continue  
 ![Textlive_install3](Figures/Textlive_install3.png)  
 
 5. click **next** to continue  
@@ -33,7 +33,7 @@ here we take Windows systen and TexLive for example.
 8. click **install** and wait  
 ![Textlive_install6](Figures/Textlive_install6.png)  
 
-9. after the installation, you will see a [Tex Live Manager] in your start menu.  
+9. after the installation, you will see a **Tex Live Manager** in your start menu.  
 ![Tex_manager](Figures/Tex_manager.png)  
 
 ## Install Lyx  
@@ -43,7 +43,7 @@ The latest version of Lyx is **Lyx2.3.2**
 1. since we take Windows for example ,here we choose **Windows Installer: LyX-232-2-Installer-10.exe**  
 ![Lyx_download.png](Lyx_download.png.png)  
 
-2. double click the **.exe** file and start installing  
+2. double click the **.exe** file on your computer and start installing  
 ![Lyx_exe](Figures/Lyx_exe.png)  
 
 3. click **next** to continue  
