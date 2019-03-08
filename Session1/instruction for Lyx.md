@@ -9,7 +9,7 @@ Before you install LyX on your computer, you need to install a TeX distribution 
 For Windows there are two main choices: MiKTeX and TeXLive.For Macs there is:  MacTeX.
 here we take Windows systen and TexLive for example.
 
-1. go to this page to download Texlive2018 (https://www.tug.org/texlive/acquire-netinstall.html)
+1. go to the following page to download Texlive2018 (https://www.tug.org/texlive/acquire-netinstall.html)
 ![Texlive_download](Figures/Texlive_download.png)
 
 2. double click the [.exe] file and start installing.
