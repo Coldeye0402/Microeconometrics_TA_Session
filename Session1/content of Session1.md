@@ -8,7 +8,7 @@
 ## * Introducing  Lyx
 
 
-# * the course materials and its organization
+#  the course materials and its organization
 
 ## course homepage (https://jiamingmao.github.io/data-analysis/)
 ![course_homepagep](Figures/course_homepage.png)
@@ -19,10 +19,10 @@
 4. link Github Repository (https://github.com/jiamingmao/data-analysis)
 
 
-## * all of the materials synchronization  (https://github.com/jiamingmao/data-analysis)
+## all of the materials synchronization  (https://github.com/jiamingmao/data-analysis)
 
 
-## * moodle (https://l.xmu.edu.cn/)
+##  moodle (https://l.xmu.edu.cn/)
 ![moodle_home](Figures/moodle_home.png)
 
 ![moodle_our](Figures/moodle_our.png)
@@ -33,7 +33,7 @@
 2. download data and related books in electronical version
 
 
-## * piazza for class related discussion (https://piazza.com/class/jrutcu09qew35q?cid=5)
+## piazza for class related discussion (https://piazza.com/class/jrutcu09qew35q?cid=5)
 
 School: Xiamen University
 Term: Spring 2019
