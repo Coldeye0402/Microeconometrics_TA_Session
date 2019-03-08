@@ -12,13 +12,13 @@ here we take Windows systen and TexLive for example.
 1. go to this page to download Texlive2018 (https://www.tug.org/texlive/acquire-netinstall.html)
 ![Texlive_download](Figures/Texlive_download.png)
 
-2. double click the **.exe** file and start installing.
+2. double click the [.exe] file and start installing.
 ![Textlive_install1](Figures/Textlive_install1.png)
 
-3. click **next**
+3. click [next]
 ![Textlive_install2](Figures/Textlive_install2.png)
 
-4. click **install** to continue
+4. click [install] to continue
 ![Textlive_install3](Figures/Textlive_install3.png)
 
 5. click **next** to continue
