@@ -42,7 +42,7 @@ the official website for Lyx dowanload is (https://www.lyx.org/Download).
 The latest version of Lyx is **Lyx2.3.2**  
 1. since we take Windows for example ,here we choose **Windows Installer: LyX-232-2-Installer-10.exe**  
 
-![Lyx_download.png](Figures/Lyx_download.png.png)  
+![Lyx_download.png](Figures/Lyx_download.png)  
 
 2. double click the **.exe** file on your computer and start installing  
 ![Lyx_exe](Figures/Lyx_exe.png)  
