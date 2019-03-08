@@ -2,10 +2,10 @@
 # Outlines of the first TA Session
 
 ## * The course materials and its organization
-## * Using git and/or Github desktop to sync course materials
-## * Installing R and RStudio
-## * Installing Python
-## * Introducing  Lyx  
+## * [Using git and/or Github desktop to sync course materials](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/instruction%20for%20Github.md)
+## * [Installing R and RStudio](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/instruction%20for%20R.md)
+## * [Installing Python](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/instruction%20for%20Python.md)
+## * [Introducing  Lyx](https://github.com/trustxiaoqinwang/Microeconometrics_TA_Session/blob/master/Session1/instruction%20for%20Lyx.md)
 
 #  the course materials and its organization
 
