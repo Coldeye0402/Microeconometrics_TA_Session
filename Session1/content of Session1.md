@@ -5,8 +5,7 @@
 ## * Using git and/or Github desktop to sync course materials
 ## * Installing R and RStudio
 ## * Installing Python
-## * Introducing  Lyx
-
+## * Introducing  Lyx  
 
 #  the course materials and its organization
 
@@ -35,8 +34,8 @@
 
 ## piazza for class related discussion (https://piazza.com/class/jrutcu09qew35q?cid=5)
 
-School: Xiamen University
-Term: Spring 2019
-Class: Microeconometrics
+School: Xiamen University  
+Term: Spring 2019  
+Class: Microeconometrics  
 
 
